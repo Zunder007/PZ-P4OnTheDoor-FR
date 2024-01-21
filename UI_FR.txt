@@ -1,0 +1,5 @@
+UI_FR = {
+	UI_P4OnTheDoor_Messages_Found = "J'ai trouvé la clé de la voiture sur la portière.",
+	UI_P4OnTheDoor_Options_EnableMessage_Name = "Message de notification de découverte",
+	UI_P4OnTheDoor_Options_EnableMessage_Tooltip = "Cocher la case pour être averti par un message lors de la recherche.",
+}
